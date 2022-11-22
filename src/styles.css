@@ -3,6 +3,7 @@ body {
   display: flex;
   /* TODO: Adjust CSS so that form is centered on page */
   align-items: center;
+  justify-content: center;
 }
 
 form {
@@ -11,9 +12,6 @@ form {
   border: 1px solid black;
   padding: 2rem;
   border-radius: 2rem;
-  text-align: center;;
-  margin: auto;
-  width: 260px;
 }
 
 form > img {
